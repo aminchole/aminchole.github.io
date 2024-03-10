@@ -11,7 +11,7 @@
 [![](pdf_icon.gif)](pdfs/PhDThesis_Minchole_2011.pdf)
     >
 
-<!
+<!---
 * **2002**
     > **MSc in Physics**
     >
@@ -25,7 +25,7 @@
     > **BSc in Physics**
     >
     > [University of Zaragoza](http://www.ib.edu.ar/), National University of Cuyo, Bariloche, Argentina.
->
+-->
 
 
 -------------------------------
