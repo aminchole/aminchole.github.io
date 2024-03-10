@@ -44,6 +44,37 @@ Dutta, Minchol&eacute;, **Zacur**, Quinn, Taggart, and Rodriguez.
 [![](doi_icon.gif)](http://doi.org/10.1016/j.pbiomolbio.2016.01.008)
 
 
+00. ***MRI-Based Computational Torso/Biventricular Multiscale Models to Investigate the Impact of Anatomical Variability on the ECG QRS Complex.***
+![](open_access.gif)
+[![](pdf_icon.gif)](pdfs/Minchole19_Frontiers_in_Physiology.pdf)
+<br>
+Minchol&eacute;, **Zacur** _(joint first author)_, Ariga, Grau, and Rodriguez.
+<br>
+*In: Frontiers in Physiology 10. 1103 (2019).*
+[![](bibtex_icon.gif)](bibs/Minchole19_Frontiers_in_Physiology.bib)
+[![](doi_icon.gif)](http://doi.org/10.3389/fphys.2019.01103)
+
+
+00. ***Electrocardiogram Phenotypes in Hypertrophic Cardiomyopathy Caused by Distinct Mechanisms: Apico-Basal Repolarization Gradients vs. Purkinje-Myocardial Coupling Abnormalities.***
+![](open_access.gif)
+[![](pdf_icon.gif)](pdfs/Lyon18_EP_Europace.pdf)
+<br>
+Lyon, Bueno-Orovio, **Zacur**, Ariga, Grau, Neubauer, Watkins, Rodriguez, and Minchol&eacute;.
+<br>
+*In: EP Europace 20.Suppl 3 (2018), pp. iii102-iii112.*
+[![](bibtex_icon.gif)](bibs/Lyon18_EP_Europace.bib)
+[![](doi_icon.gif)](http://doi.org/10.1093/europace/euy226)
+
+
+00. ***Modeling and Quantification of Repolarization Feature Dependency on Heart Rate.***
+[![](pdf_icon.gif)](pdfs/Minchole14_Methods_of_Information_in_Medicine.pdf)
+<br>
+Minchol&eacute;, **Zacur**, Pueyo, and Laguna.
+<br>
+*In: Methods of Information in Medicine 53.4 (2014), pp. 324&ndash;328.*
+[![](bibtex_icon.gif)](bibs/Minchole14_Methods_of_Information_in_Medicine.bib)
+[![](doi_icon.gif)](http://doi.org/10.3414/ME13-02-0040)
+[**CODE**](https://github.com/ezacur/Lcurve)
 
 
 00. ***Comparación de los efectos de la estimulación cardíaca convencional y la estimulación de rama izquierda sobre la despolarización y repolarización ventricular en el ECG.***
