@@ -11,6 +11,11 @@
 [![](pdf_icon.gif)](pdfs/PhDThesis_Minchole_2011.pdf)
     >
 
+* **2002**
+    > **MSc in Physics**
+    >
+[![](pdf_icon.gif)](pdfs/MasterTesis_Minchole_2002.pdf)
+
 <!---
 * **2002**
     > **MSc in Physics**
