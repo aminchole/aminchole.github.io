@@ -35,7 +35,7 @@
 
 23. ***Análisis frecuencial del complejo QRS del electrocardiograma para la caracterización de la estimulación con marcapasos.***
 <br>
-Bellés, Clara Sales and Melero, Jorge and Ramos, Javier and **Minchol&eacute;, Ana** and Pueyo, Esther and others.
+Bell&eacutes, Clara Sales and Melero, Jorge and Ramos, Javier and **Minchol&eacute;, Ana** and Pueyo, Esther and others.
 <br>
 *In: Jornada de Jóvenes Investigadores del I3A, 11 (2023).*
 
@@ -49,7 +49,7 @@ Bueno-Palomeque, Freddy L and Mountris, Konstantinos A and Ortigosa, Nuria and B
 
 22. ***Comparación de los efectos de la estimulación cardíaca convencional y la estimulación de rama izquierda sobre la despolarización y repolarización ventricular en el ECG.***
 <br>
-Bellés, Clara Sales and Melero, Jorge and Julián, Inés and Ramos, Javier and **Minchol&eacute;, Ana** and Pueyo, Esther and others.
+Bell&eacutes, Clara Sales and Melero, Jorge and Julián, In&eacutes and Ramos, Javier and **Minchol&eacute;, Ana** and Pueyo, Esther and others.
 <br>
 *In: Jornada de Jóvenes Investigadores del I3A, 10 (2022).*
        
@@ -153,7 +153,7 @@ Dutta, Sara and **Minchol&eacute;, Ana** and Quinn, T Alexander and Rodriguez, B
 *In: Progress in biophysics and molecular biology}, volume={129}, pages={40--52}, year={2017}, publisher={Pergamon} }
        
        
-17. ***Bayés de Luna A, Martínez JP, Laguna P, Pueyo E. Sudden cardiac death and pump failure death prediction in chronic heart failure by combining ECG and clinical markers in an integrated risk model.***
+17. ***Bay&eacutes de Luna A, Martínez JP, Laguna P, Pueyo E. Sudden cardiac death and pump failure death prediction in chronic heart failure by combining ECG and clinical markers in an integrated risk model.***
 <br>
 Ramírez, J and Orini, M and Minchol&eacute;, A and Monasterio, V and Cygankiewicz, I}
 <br>
@@ -169,7 +169,7 @@ Ramírez, Julia and Orini, Michele and **Minchol&eacute;, Ana** and Monasterio, 
        
 17. ***Sudden cardiac death and pump failure death prediction in chronic heart failure by combining ECG and clinical markers in an integrated risk model.***
 <br>
-Ramírez, Julia and Orini, Michele and **Minchol&eacute;, Ana** and Monasterio, Violeta and Cygankiewicz, Iwona and Bayés de Luna, Antonio and Martínez, Juan Pablo and Laguna, Pablo and Pueyo, Esther}
+Ramírez, Julia and Orini, Michele and **Minchol&eacute;, Ana** and Monasterio, Violeta and Cygankiewicz, Iwona and Bay&eacutes de Luna, Antonio and Martínez, Juan Pablo and Laguna, Pablo and Pueyo, Esther}
 <br>
 *In: PloS one}, volume={12}, number={10}, pages={e0186152}, year={2017}, publisher={Public Library of Science San Francisco, CA USA} }
        
@@ -236,7 +236,7 @@ Rodriguez, Blanca and Carusi, Annamaria and Abi-Gerges, Najah and Ariga, Rina an
        
 15. ***Automatic SVM classification of sudden cardiac death and pump failure death from autonomic and repolarization ECG markers.***
 <br>
-Ramírez, Julia and Monasterio, Violeta and **Minchol&eacute;, Ana** and Llamedo, Mariano and Lenis, Gustavo and Cygankiewicz, Iwona and de Luna, Antonio Bayés and Malik, Marek and Martínez, Juan Pablo and Laguna, Pablo and others}
+Ramírez, Julia and Monasterio, Violeta and **Minchol&eacute;, Ana** and Llamedo, Mariano and Lenis, Gustavo and Cygankiewicz, Iwona and de Luna, Antonio Bay&eacutes and Malik, Marek and Martínez, Juan Pablo and Laguna, Pablo and others}
 <br>
 *In: Journal of Electrocardiology}, volume={48}, number={4}, pages={551--557}, year={2015}, publisher={Churchill Livingstone} }
        
@@ -323,7 +323,7 @@ Rodríguez-Carbó, Jimena and **Minchol&eacute;, Ana** and Pueyo, Esther2023 Com
    
 23. ***ECG Morphology-Based Markers for Risk Stratification in Hypertrophic Cardiomyopathy.***
 <br>
-Noguero-Soler, Inés and Ramos-Maqueda, Javier and Revilla-Martí, Pablo and Pueyo, Esther and **Minchol&eacute;, Ana**2023 Computing in Cardiology (CinC)}, volume={50}, pages={1--4}, year={2023}, organization={IEEE} }
+Noguero-Soler, In&eacutes and Ramos-Maqueda, Javier and Revilla-Martí, Pablo and Pueyo, Esther and **Minchol&eacute;, Ana**2023 Computing in Cardiology (CinC)}, volume={50}, pages={1--4}, year={2023}, organization={IEEE} }
    
    
 23. ***ECG-Based Unsupervised Clustering in Coronary Artery Disease Associates with Ventricular Arrhythmia.***
@@ -333,7 +333,7 @@ Madrid, Josseline and Munroe, Patricia B and van Duijvenboden, Stefan and Ramír
    
 23. ***Left Bundle Branch Area Pacing Generates More Physiological Ventricular Activation Sequences than Right Ventricular Pacing.***
 <br>
-Sales Bellés, Clara and **Minchol&eacute;, Ana** and Sorinas, Laura and Julián, Inés and Cabrera-Ramos, Mercedes and Melero, Jorge and Montilla-Padilla, Isabel and Pueyo, Esther and Ramos, Javier2023} }
+Sales Bell&eacutes, Clara and **Minchol&eacute;, Ana** and Sorinas, Laura and Julián, In&eacutes and Cabrera-Ramos, Mercedes and Melero, Jorge and Montilla-Padilla, Isabel and Pueyo, Esther and Ramos, Javier2023} }
    
    
 23. ***Left Bundle Branch Area Pacing Generates More Physiological Ventricular Activation Sequences than Right Ventricular Pacing.***
@@ -348,7 +348,7 @@ Bueno--Palomeque, Freddy L and Mountris, Konstantinos A and Ortigosa, Nuria and 
    
 22. ***Right ventricular vs left bundle branch pacing-induced changes in ECG depolarization and repolarization.***
 <br>
-Sales, Clara and Palacios, Saúl and Melero, Jorge and Julián, Inés and Ramos, Javier and Martínez, Juan Pablo and **Minchol&eacute;, Ana** and Pueyo, Esther2022 Computing in Cardiology (CinC)}, volume={498}, pages={1--4}, year={2022}, organization={IEEE} }
+Sales, Clara and Palacios, Saúl and Melero, Jorge and Julián, In&eacutes and Ramos, Javier and Martínez, Juan Pablo and **Minchol&eacute;, Ana** and Pueyo, Esther2022 Computing in Cardiology (CinC)}, volume={498}, pages={1--4}, year={2022}, organization={IEEE} }
    
    
 21. ***Inference of ventricular activation properties from twelve-lead electrocardiogram.***
