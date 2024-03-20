@@ -31,7 +31,7 @@
 -------------------------------
 # List of papers in Journals
 
-{: reversed="reversed"}
+{ : reversed="reversed"}
 
 23. ***Análisis frecuencial del complejo QRS del electrocardiograma para la caracterización de la estimulación con marcapasos.***
 <br>
