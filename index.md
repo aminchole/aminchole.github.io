@@ -56,7 +56,7 @@ Camps, Lawson, Drovandi, **Minchol&eacute;**, Wang, Grau, Burrage and Rodriguez.
 <br>
 **Minchol&eacute;** and Rodriguez.
 <br>
-*In: Nature Medicine, 25, pp.22-23, (2019).*
+*In: Nature Medicine, 25, pp.22&ndash;23, (2019).*
 [![](doi_icon.gif)](http://doi.org/10.1038/s41591-018-0306-1)
 
 19. ***Machine learning in the electrocardiogram.***
@@ -64,7 +64,7 @@ Camps, Lawson, Drovandi, **Minchol&eacute;**, Wang, Grau, Burrage and Rodriguez.
 <br>
 **Minchol&eacute;**, Camps, Lyon and Rodr&iacute;guez.
 <br>
-*In: Journal of Electrocardiology, 57, pp. S61&ndash;S64, (2019).*
+*In: Journal of Electrocardiology, 57, pp.S61&ndash;S64, (2019).*
 [![](doi_icon.gif)](http://doi.org/10.1016/j.jelectrocard.2019.08.008)
 
 19. ***High arrhythmic risk in antero-septal acute myocardial ischemia is explained by increased transmural reentry occurrence.***
@@ -73,7 +73,7 @@ Camps, Lawson, Drovandi, **Minchol&eacute;**, Wang, Grau, Burrage and Rodriguez.
 <br>
 Martinez-Navarro, **Minchol&eacute;**, Bueno-Orovio and Rodriguez.
 <br>
-*In: Scientific reports, Vol. 9, No. 1, pp. 16803, (2019).*
+*In: Scientific reports, Vol. 9, No. 1, pp.16803, (2019).*
 [![](doi_icon.gif)](http://doi.org/10.1038/s41598-019-53221-2)
 
 19. ***Improving the clinical understanding of hypertrophic cardiomyopathy by combining patient data, machine learning and computer simulations: a case study.***
@@ -82,7 +82,7 @@ Martinez-Navarro, **Minchol&eacute;**, Bueno-Orovio and Rodriguez.
 <br>
 Lyon, **Minchol&eacute;**,  Bueno-Orovio and Rodriguez.
 <br>
-*In: Morphologie, Vol. 103, No. 343, pp. 169-179, (2019).*
+*In: Morphologie, Vol. 103, No. 343, pp.169&ndash;179, (2019).*
 [![](doi_icon.gif)](http://doi.org/10.1016/j.morpho.2019.09.001)
 
 19. ***Development, calibration, and validation of a novel human ventricular myocyte model in health, disease, and drug block.***
@@ -91,7 +91,7 @@ Lyon, **Minchol&eacute;**,  Bueno-Orovio and Rodriguez.
 <br>
 Tomek, Bueno-Orovio, Passini, Zhou, **Minchol&eacute;**, Britton, Bartolucci, Severi, Shrier, Virag, Laszlo and Rodriguez.
 <br>
-*In: Elife, Vol. 8, pp. e48890, (2019).*
+*In: Elife, Vol. 8, pp.e48890, (2019).*
 [![](doi_icon.gif)](http://doi.org/10.7554/eLife.48890)
 
 19. ***MRI-Based Computational Torso/Biventricular Multiscale Models to Investigate the Impact of Anatomical Variability on the ECG QRS Complex.***
@@ -117,7 +117,7 @@ Lyon, Ariga, **Minchol&eacute;**, Mahmod, Ormondroyd, Laguna, de Freitas, Neubau
 <br>
 Lyon, **Minchol&eacute;**, Mart&iacute;nez, Laguna and Rodriguez.
 <br>
-*In: Journal of The Royal Society Interface, Vol. 15, No. 138, pp. 20170821, (2018).*
+*In: Journal of The Royal Society Interface, Vol. 15, No. 138, pp.20170821, (2018).*
 [![](doi_icon.gif)](http://doi.org/10.1098/rsif.2017.0821)
 
 18. ***Electrocardiogram Phenotypes in Hypertrophic Cardiomyopathy Caused by Distinct Mechanisms: Apico-Basal Repolarization Gradients vs. Purkinje-Myocardial Coupling Abnormalities.***
@@ -126,7 +126,7 @@ Lyon, **Minchol&eacute;**, Mart&iacute;nez, Laguna and Rodriguez.
 <br>
 Lyon, Bueno-Orovio, Zacur, Ariga, Grau, Neubauer, Watkins, Rodriguez, and **Minchol&eacute;**.
 <br>
-*In: EP Europace 20.Suppl 3 (2018), pp. iii102&ndash;iii112.*
+*In: EP Europace 20.Suppl 3 (2018), pp.iii102&ndash;iii112.*
 [![](doi_icon.gif)](http://doi.org/10.1093/europace/euy226)
 
 17. ***Variational inference over non-differentiable cardiac simulators using Bayesian optimization.***
@@ -144,7 +144,7 @@ McCarthy, Rodriguez and **Minchol&eacute;**.
 <br>
 Dutta and **Minchol&eacute;**, Quinn and Rodriguez.
 <br>
-*In: Progress in Biophysics and Molecular Biology, Vol. 129, pp. 40-52, (2017).*
+*In: Progress in Biophysics and Molecular Biology, Vol. 129, pp.40&ndash;52, (2017).*
 [![](doi_icon.gif)](http://doi.org/10.1016/j.pbiomolbio.2017.02.007)
 
 17. ***Sudden cardiac death and pump failure death prediction in chronic heart failure by combining ECG and clinical markers in an integrated risk model.***
@@ -162,7 +162,7 @@ Ram&iacute;rez, Orini, **Minchol&eacute;**, Monasterio, Cygankiewicz, Bay&eacute
 <br>
 Ram&iacute;rez, Orini, **Minchol&eacute;**, Monasterio, Cygankiewicz, Bay&eacute;s de Luna, Mart&iacute;nez, Pueyo and Laguna.
 <br>
-*In: Journal of the American Heart Association, Vol. 6, No. 5, pp. e005310, (2017).*
+*In: Journal of the American Heart Association, Vol. 6, No. 5, pp.e005310, (2017).*
 [![](doi_icon.gif)](http://doi.org/10.1161/JAHA.116.005310)
 
 16. ***Human ventricular activation sequence and the simulation of the electrocardiographic QRS complex and its variability in healthy and intraventricular block conditions.***
@@ -180,7 +180,7 @@ Cardone-Noott, Bueno-Orovio, **Minchol&eacute;**, Zemzemi and Rodriguez.
 <br>
 Passini, **Minchol&eacute;**, Coppini, Cerbai, Rodriguez, Severi, and Bueno-Orovio.
 <br>
-*In: Journal of Molecular and Cellular Cardiology, Vol. 96, pp. 72-81, (2016).*
+*In: Journal of Molecular and Cellular Cardiology, Vol. 96, pp.72&ndash;81, (2016).*
 [![](doi_icon.gif)](http://doi.org/10.1016/j.yjmcc.2015.09.003)
 
 16. ***Early Afterdepolarizations Promote Transmural Reentry in Ischemic Human Ventricles with Reduced Repolarization Reserve.***
@@ -189,14 +189,14 @@ Passini, **Minchol&eacute;**, Coppini, Cerbai, Rodriguez, Severi, and Bueno-Orov
 <br>
 Dutta, **Minchol&eacute; (joint first author)**, Zacur, Quinn, Taggart, and Rodriguez.
 <br>
-*In: Progress in Biophysics and Molecular Biology 120.1 (2016). Recent Developments in Biophysics Molecular Biology of Heart Rhythm, pp. 236&ndash;248.*
+*In: Progress in Biophysics and Molecular Biology 120.1 (2016). Recent Developments in Biophysics Molecular Biology of Heart Rhythm, pp.236&ndash;248.*
 [![](doi_icon.gif)](http://doi.org/10.1016/j.pbiomolbio.2016.01.008)
 
 15. ***Class III drugs in human regionally-ischemic ventricles: Anti-or proarrhythmic action?.***
 <br>
 Dutta, **Minchol&eacute;**, Taggart, Quinn, and Rodriguez.
 <br>
-*In: Journal of Pharmacological and Toxicological Methods, Vol. 75 , pp. 165, (2015).*
+*In: Journal of Pharmacological and Toxicological Methods, Vol. 75 , pp.165, (2015).*
 [![](doi_icon.gif)](http://doi.org/10.1016/j.vascn.2015.08.026)
 
 15. ***Human-based approaches to pharmacology and cardiology: an interdisciplinary and intersectorial workshop.***
@@ -205,7 +205,7 @@ Dutta, **Minchol&eacute;**, Taggart, Quinn, and Rodriguez.
 <br>
 Rodriguez, Carusi, Abi-Gerges, Ariga, Britton, Bub, Bueno-Orovio, Burton, Carapella, Cardone-Noott, Daniels, Davies, Dutta, Ghetti, Grau, Harmer, Kopljar, Lambiase, Lu, Lyon, **Minchol&eacute;**, Muszkiewicz, Oster, Paci, Passini, Severi, Taggart, Tinker, Valentin, Varro, Wallman, Zhou
 <br>
-*In: Europace, Vol. 18, No. 0, pp. 1287-98, (2015).*
+*In: Europace, Vol. 18, No. 0, pp.1287&ndash;98, (2015).*
 [![](doi_icon.gif)](http://doi.org/10.1093/europace/euv320)
 
 15. ***ECG-based estimation of dispersion of APD restitution as a tool to stratify sotalol-induced arrhythmic risk.***
@@ -214,7 +214,7 @@ Rodriguez, Carusi, Abi-Gerges, Ariga, Britton, Bub, Bueno-Orovio, Burton, Carape
 <br>
 **Minchol&eacute;**, Bueno-Orovio, Laguna, Pueyo and Rodriguez.
 <br>
-*In: Journal of electrocardiology, Vol.48, No.5, pp. 867-873, (2015).*
+*In: Journal of electrocardiology, Vol.48, No.5, pp.867&ndash;873, (2015).*
 [![](doi_icon.gif)](http://doi.org/10.1016/j.jelectrocard.2015.06.006)
 
 15. ***Automatic SVM classification of sudden cardiac death and pump failure death from autonomic and repolarization ECG markers.***
@@ -223,7 +223,7 @@ Rodriguez, Carusi, Abi-Gerges, Ariga, Britton, Bub, Bueno-Orovio, Burton, Carape
 Ram&iacute;rez, Monasterio, **Minchol&eacute;**, Llamedo, Lenis, Cygankiewicz, Bay&eacute;s de Luna, Malik, Mart&iacute;nez, Laguna,
  and Pueyo.
 <br>
-*In: Journal of Electrocardiology, Vol. 48, No. 4, pp. 551-557, (2015).*
+*In: Journal of Electrocardiology, Vol. 48, No. 4, pp.551&ndash;557, (2015).*
 [![](doi_icon.gif)](http://doi.org/10.1016/j.jelectrocard.2015.04.002)
 
 14. ***Detection of body position changes from the ECG using a Laplacian noise model.***
@@ -231,7 +231,7 @@ Ram&iacute;rez, Monasterio, **Minchol&eacute;**, Llamedo, Lenis, Cygankiewicz, B
 <br>
 **Minchol&eacute;**, Sörnmo and Laguna.
 <br>
-*In: Biomedical Signal Processing and Control, Vol. 14, pp. 189-196, (2014).*
+*In: Biomedical Signal Processing and Control, Vol. 14, pp.189&ndash;196, (2014).*
 [![](doi_icon.gif)](http://doi.org/10.1016/j.bspc.2014.08.002)
 
 14. ***Modeling and Quantification of Repolarization Feature Dependency on Heart Rate.***
@@ -239,14 +239,14 @@ Ram&iacute;rez, Monasterio, **Minchol&eacute;**, Llamedo, Lenis, Cygankiewicz, B
 <br>
 **Minchol&eacute;**, Zacur, Pueyo, and Laguna.
 <br>
-*In: Methods of Information in Medicine 53.4 (2014), pp. 324&ndash;328.*
+*In: Methods of Information in Medicine 53.4 (2014), pp.324&ndash;328.*
 
 13. ***Deriving respiration from photoplethysmographic pulse width.***
 [![](pdf_icon.gif)](pdfs/Lazaro13.pdf)
 <br>
 L&aacute;zaro, Gil, Bail&oacute;n, **Minchol&eacute;** and Laguna.
 <br>
-*In: Medical \& Biological Engineering \& Computing, Vol. 51, pp. 233&ndash;242, (2013).*
+*In: Medical \& Biological Engineering \& Computing, Vol. 51, pp.233&ndash;242, (2013).*
 [![](doi_icon.gif)](http://doi.org/10.1007/s11517-012-0954-0)
 
 11. ***Quantification of Restitution Dispersion From the Dynamic Changes of the T-Wave Peak to End, Measured at the Surface ECG.***
@@ -254,14 +254,14 @@ L&aacute;zaro, Gil, Bail&oacute;n, **Minchol&eacute;** and Laguna.
 <br>
 **Minchol&eacute;**, Pueyo, Rodr&iacute;guez, Zacur, Doblar&eacute;, and Laguna.
 <br>
-*In: IEEE Transactions on Biomedical Engineering 58.5 (2011), pp. 1172&ndash;1182.*
+*In: IEEE Transactions on Biomedical Engineering 58.5 (2011), pp.1172&ndash;1182.*
 [![](doi_icon.gif)](http://doi.org/10.1109/tbme.2010.2097597)
 
 10. ***Dispersion of APD restitution quantified from the surface ECG.***
 <br>
 **Minchol&eacute;.**, Pueyo and Laguna.
 <br>
-*In: Journal of Electrocardiology, Vol.43, No.6, pp. 643, (2010).*
+*In: Journal of Electrocardiology, Vol.43, No.6, pp.643, (2010).*
 [![](doi_icon.gif)](http://doi.org/10.1016/j.jelectrocard.2015.06.006)
 
 10. ***Discrimination between ischemic and artifactual ST segment events in Holter recordings.***
@@ -269,7 +269,7 @@ L&aacute;zaro, Gil, Bail&oacute;n, **Minchol&eacute;** and Laguna.
 <br>
 **Minchol&eacute;**, Jager and Laguna.
 <br>
-*In: Biomedical Signal Processing and Control, Vol. 5, No.1, pp. 21-31, (2010).*
+*In: Biomedical Signal Processing and Control, Vol. 5, No.1, pp.21&ndash;31, (2010).*
 [![](doi_icon.gif)](https://doi.org/10.1016/j.bspc.2009.09.001)
 
 
