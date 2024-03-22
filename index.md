@@ -49,62 +49,62 @@
 
 
 23. ***QRS-T angles as markers for heart sphericity in subjects with intrauterine growth restriction: a simulation study.***
+ ![](open_access.gif)
+[![](pdf_icon.gif)](pdfs/Bueno23a.pdf)
 <br>
-Bueno-Palomeque, Freddy L and Mountris, Konstantinos A and Ortigosa, Nuria and Bailón, Raquel and Bijnens, Bart and Crispi, F{\`a}tima and Pueyo, Esther and **Minchol&eacute;, Ana** and Laguna, Pablo}
+Bueno-Palomeque, Mountris, Ortigosa, Bailón, Bijnens, Crispi, Pueyo, **Minchol&eacute;** and Laguna.
 <br>
-*In: IEEE Journal of Biomedical and Health Informatics (2023).*
-
-
-
-       
-       
-22. ***Variación del ángulo entre QRS y onda T del ECG en función del índice de esfericidad ventricular en sujetos con crecimiento intrauterino retardado: un estudio computacional.***
-<br>
-Bueno-Palomeque, Freddy L and Mountris, Konstantinos A and **Minchol&eacute;, Ana** and Ortigosa, Nuria and Bailón, Raquel and Pueyo, Esther and Laguna, Pablo.
-<br>
-*In: Jornada de Jóvenes Investigadores del I3A, 10 (2022).*
-       
+*In: IEEE Journal of Biomedical and Health Informatics, Vol. 27, No 10, (2023).*
+      
        
 21. ***Inference of ventricular activation properties from non-invasive electrocardiography.***
+ ![](open_access.gif)
+[![](pdf_icon.gif)](pdfs/Camps21a.pdf)<br>
+Camps, Lawson, Drovandi, **Minchol&eacute;**, Wang, Grau, Burrage and Rodriguez.
 <br>
-Camps, Julia and Lawson, Brodie and Drovandi, Christopher and Minchole, Ana and Wang, Zhinuo Jenny and Grau, Vicente and Burrage, Kevin and Rodriguez, Blanca}
-<br>
-*In: Medical Image Analysis, 73 (2021), pp.102143.*
+*In: Medical Image Analysis, 73, pp.102143 (2021).*
        
        
 19. ***Artificial intelligence for the electrocardiogram.***
+[![](pdf_icon.gif)](pdfs/Minchole19a.pdf)
 <br>
-**Minchol&eacute;, Ana** and Rodriguez, Blanca}
+**Minchol&eacute;** and Rodriguez.
 <br>
-*In: Nature medicine}, volume={25}, number={1}, pages={22--23}, year={2019}, publisher={Nature Publishing Group US New York} }
+*In: Nature Medicine, 25, pp.22-23, (2019).*
        
        
 19. ***Machine learning in the electrocardiogram.***
+[![](pdf_icon.gif)](pdfs/Minchole19b.pdf)
 <br>
-**Minchol&eacute;, Ana** and Camps, Juli{\`a} and Lyon, Aurore and Rodríguez, Blanca}
+**Minchol&eacute;**, Camps, Lyon and Rodríguez.
 <br>
-*In: Journal of electrocardiology}, volume={57}, pages={S61--S64}, year={2019}, publisher={Churchill Livingstone} }
+*In: Journal of Electrocardiology, 57, pp. S61--S64, (2019).*
        
        
 19. ***High arrhythmic risk in antero-septal acute myocardial ischemia is explained by increased transmural reentry occurrence.***
+ ![](open_access.gif)
+[![](pdf_icon.gif)](pdfs/Martinez-Navarro19a.pdf)
 <br>
-Martinez-Navarro, Hector and **Minchol&eacute;, Ana** and Bueno-Orovio, Alfonso and Rodriguez, Blanca}
+Martinez-Navarro, **Minchol&eacute;**, Bueno-Orovio and Rodriguez.
 <br>
-*In: Scientific reports}, volume={9}, number={1}, pages={16803}, year={2019}, publisher={Nature Publishing Group UK London} }
+*In: Scientific reports, Vol. 9, No. 1, pp. 16803, (2019).*
        
        
 19. ***Improving the clinical understanding of hypertrophic cardiomyopathy by combining patient data, machine learning and computer simulations: a case study.***
+ ![](open_access.gif)
+[![](pdf_icon.gif)](pdfs/Lyon19.pdf)
 <br>
-Lyon, Aurore and **Minchol&eacute;, Ana** and Bueno-Orovio, Alfonso and Rodriguez, Blanca}
+Lyon, **Minchol&eacute;**,  Bueno-Orovio and Rodriguez.
 <br>
-*In: Morphologie}, volume={103}, number={343}, pages={169--179}, year={2019}, publisher={Elsevier Masson} }
+*In: Morphologie, Vol. 103, No. 343, pp. 169-179, (2019).*
        
        
 19. ***Development, calibration, and validation of a novel human ventricular myocyte model in health, disease, and drug block.***
+ ![](open_access.gif)
+[![](pdf_icon.gif)](pdfs/Tomek19.pdf)<br>
+Tomek, Bueno-Orovio, Passini, Zhou, Minchole, Britton, Bartolucci, Severi, Shrier, Virag, Laszlo and Rodriguez.
 <br>
-Tomek, Jakub and Bueno-Orovio, Alfonso and Passini, Elisa and Zhou, Xin and Minchole, Ana and Britton, Oliver and Bartolucci, Chiara and Severi, Stefano and Shrier, Alvin and Virag, Laszlo and others}
-<br>
-*In: Elife}, volume={8}, pages={e48890}, year={2019}, publisher={eLife Sciences Publications, Ltd} }
+*In: Elife, Vol. 8, pp. e48890, (2019).*
        
        
 19. ***MRI-Based Computational Torso/Biventricular Multiscale Models to Investigate the Impact of Anatomical Variability on the ECG QRS Complex.***
@@ -379,7 +379,12 @@ Bueno--Palomeque, Mountris, Ortigosa, Bailón, Bijnens, Crispi, Pueyo, **Minchol
 <br>
 *In: Computing in Cardiology (CinC). Vol.50, pp.1-4; Atlanta, USA, 2023.* 
    
-   
+22. ***Variación del ángulo entre QRS y onda T del ECG en función del índice de esfericidad ventricular en sujetos con crecimiento intrauterino retardado: un estudio computacional.***
+<br>
+Bueno-Palomeque, Mountris, **Minchol&eacute;, Ortigosa, Bailón, Pueyo and Laguna.
+<br>
+*In: Jornada de Jóvenes Investigadores del I3A, 10 (2022).*
+
 22. ***Right ventricular vs left bundle branch pacing-induced changes in ECG depolarization and repolarization.***
 [![](pdf_icon.gif)](pdfs/Sales22c.pdf)
 <br>
