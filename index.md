@@ -327,6 +327,7 @@ Lyon, Ariga, **Minchol&eacute;**, Zacur, Laguna, Grau, Neubauer, Watkins, and Ro
 In: Conference of the European Medical and Biological Engineering Conference (EMBEC). Tampere, Finland, June 2017.
 
 22. ***Comparación de los efectos de la estimulación cardíaca convencional y la estimulación de rama izquierda sobre la despolarización y repolarización ventricular en el ECG.***
+[![](pdf_icon.gif)](pdfs/Sales22b.pdf)
 <br>
 Sales, Melero, Julián, Ramos, **Minchol&eacute;** and Pueyo.
 <br>
@@ -334,6 +335,7 @@ Sales, Melero, Julián, Ramos, **Minchol&eacute;** and Pueyo.
 
 
 23. ***ECG-Based Characterization of Acute Ischemia During Percutaneous Coronary Intervention.***
+[![](pdf_icon.gif)](pdfs/Rodriguez_Carbo23.pdf)
 <br>
 Rodríguez-Carbó, **Minchol&eacute;** and Pueyo.
 <br>
@@ -341,33 +343,42 @@ Rodríguez-Carbó, **Minchol&eacute;** and Pueyo.
    
    
 23. ***ECG Morphology-Based Markers for Risk Stratification in Hypertrophic Cardiomyopathy.***
+[![](pdf_icon.gif)](pdfs/Noguero_Soler23.pdf)
 <br>
-Noguero-Soler, In&eacute;s and Ramos-Maqueda, Javier and Revilla-Martí, Pablo and Pueyo, Esther and **Minchol&eacute;, Ana**2023 Computing in Cardiology (CinC)}, volume={50}, pages={1--4}, year={2023}, organization={IEEE} }
+Noguero-Soler, Ramos-Maqueda, Revilla-Martí, Pueyo and **Minchol&eacute;**.
+<br>
+*In: Computing in Cardiology (CinC). Vol.50, pp.1-4; Atlanta, USA, 2023. 
    
    
 23. ***ECG-Based Unsupervised Clustering in Coronary Artery Disease Associates with Ventricular Arrhythmia.***
+[![](pdf_icon.gif)](pdfs/Madrid23a.pdf)
 <br>
-Madrid, Josseline and Munroe, Patricia B and van Duijvenboden, Stefan and Ramírez, Julia and **Minchol&eacute;, Ana**2023 Computing in Cardiology (CinC)}, volume={50}, pages={1--4}, year={2023}, organization={IEEE} }
+Madrid, Munroe, van Duijvenboden, Ramírez and **Minchol&eacute;**
+<br>
+*In: Computing in Cardiology (CinC). Vol.50, pp.1-4; Atlanta, USA, 2023. 
    
    
 23. ***Left Bundle Branch Area Pacing Generates More Physiological Ventricular Activation Sequences than Right Ventricular Pacing.***
+[![](pdf_icon.gif)](pdfs/Sales23a.pdf)
 <br>
-Sales Bell&eacute;s, Clara and **Minchol&eacute;, Ana** and Sorinas, Laura and Julián, In&eacute;s and Cabrera-Ramos, Mercedes and Melero, Jorge and Montilla-Padilla, Isabel and Pueyo, Esther and Ramos, Javier2023} }
-   
-   
-23. ***Left Bundle Branch Area Pacing Generates More Physiological Ventricular Activation Sequences than Right Ventricular Pacing.***
+Sales, **Minchol&eacute;**, Sorinas,Julián, Cabrera-Ramos, Melero, Montilla-Padilla, Pueyo, and Ramos.
 <br>
-Sales, Clara and **Minchol&eacute;, Ana** and Melero-Polo, Jorge and Cabrera-Ramos, Mercedes and Montilla-Padilla, Isabel and Sorinas, Laura and Julián, Ines and Pueyo, Esther and Ramos, Javier2023 Computing in Cardiology (CinC)}, volume={50}, pages={1--4}, year={2023}, organization={IEEE} }
-   
+*In: Computing in Cardiology (CinC). Vol.50, pp.1-4; Atlanta, USA, 2023. 
+
    
 23. ***QRS Width and T-Peak to T-End Interval Are Prolonged in Preadolescents with Severe Intrauterine Growth Restriction at Birth when Compared to Controls.***
+[![](pdf_icon.gif)](pdfs/Bueno23.pdf)
 <br>
-Bueno--Palomeque, Freddy L and Mountris, Konstantinos A and Ortigosa, Nuria and Bailón, Raquel and Bijnens, Bart and Crispi, Fatima and Pueyo, Esther and **Minchol&eacute;, Ana** and Laguna, Pablo2023 Computing in Cardiology (CinC)}, volume={50}, pages={1--4}, year={2023}, organization={IEEE} }
+Bueno--Palomeque, Mountris, Ortigosa, Bailón, Bijnens, Crispi, Pueyo, **Minchol&eacute;** and Laguna.
+<br>
+*In: Computing in Cardiology (CinC). Vol.50, pp.1-4; Atlanta, USA, 2023. 
    
    
 22. ***Right ventricular vs left bundle branch pacing-induced changes in ECG depolarization and repolarization.***
 <br>
-Sales, Clara and Palacios, Saúl and Melero, Jorge and Julián, In&eacute;s and Ramos, Javier and Martínez, Juan Pablo and **Minchol&eacute;, Ana** and Pueyo, Esther2022 Computing in Cardiology (CinC)}, volume={498}, pages={1--4}, year={2022}, organization={IEEE} }
+Sales, Palacios, Melero, Julián, Ramos, Martínez, **Minchol&eacute;** and Pueyo.
+<br>
+*In: Computing in Cardiology (CinC). Vol.49, pp.1-4;  Tampere, Finland, 2022.
    
    
 21. ***Inference of ventricular activation properties from twelve-lead electrocardiogram.***
