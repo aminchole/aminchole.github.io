@@ -241,7 +241,7 @@ Ramírez, Monasterio, **Minchol&eacute;**, Llamedo, Lenis, Cygankiewicz, Bayés 
 <br>
 **Minchol&eacute;**, Sörnmo and Laguna.
 <br>
-*In: Biomedical Signal Processing and Control, Vol. 14, pp. 189-196, (2014).
+*In: Biomedical Signal Processing and Control, Vol. 14, pp. 189-196, (2014).*
 [![](doi_icon.gif)](https://doi.org/10.1016/j.bspc.2014.08.002)            
   
 14. ***Modeling and Quantification of Repolarization Feature Dependency on Heart Rate.***
@@ -280,7 +280,7 @@ Lázaro, Gil, Bailón, **Minchol&eacute;** and Laguna.
 <br>
 **Minchol&eacute;.**, Pueyo and Laguna.
 <br>
-*In: Journal of Electrocardiology, Vol.43, No.6, pp. 643, (2010).
+*In: Journal of Electrocardiology, Vol.43, No.6, pp. 643, (2010).*
        
        
 10. ***Discrimination between ischemic and artifactual ST segment events in Holter recordings.***
