@@ -1,4 +1,4 @@
-# Ana's homepage
+# Ana Mincholé's homepage
 
 # Education
 
@@ -281,7 +281,7 @@ Lázaro, Gil, Bailón, **Minchol&eacute;** and Laguna.
 **Minchol&eacute;.**, Pueyo and Laguna.
 <br>
 *In: Journal of Electrocardiology, Vol.43, No.6, pp. 643, (2010).*
-       
+[![](doi_icon.gif)](http://doi.org/10.1016/j.jelectrocard.2015.06.006)      
        
 10. ***Discrimination between ischemic and artifactual ST segment events in Holter recordings.***
 [![](pdf_icon.gif)](pdfs/Minchole10.pdf)
