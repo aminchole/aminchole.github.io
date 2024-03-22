@@ -34,20 +34,7 @@
 { : reversed="reversed"}
 
 
-
       
-00. ***Titulo.***
- ![](open_access.gif)
-[![](pdf_icon.gif)](pdfs/nombre.pdf)
-<br>
-**Minchol&eacute;**, autores, and Ultimo.
-<br>
-*In: Info paper (2019).*
-[![](bibtex_icon.gif)](bibs/nombre.bib)
-[![](doi_icon.gif)](http://doi.org/10.3389/fphys.2019.01103)
-
-
-
 23. ***QRS-T angles as markers for heart sphericity in subjects with intrauterine growth restriction: a simulation study.***
  ![](open_access.gif)
 [![](pdf_icon.gif)](pdfs/Bueno23a.pdf)
