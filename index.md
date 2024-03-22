@@ -107,19 +107,22 @@ Tomek, Bueno-Orovio, Passini, Zhou, Minchole, Britton, Bartolucci, Severi, Shrie
        
        
 18. ***Distinct ECG phenotypes identified in hypertrophic cardiomyopathy using machine learning associate with arrhythmic risk markers.***
+ ![](open_access.gif)
+[![](pdf_icon.gif)](pdfs/Lyon2018a.pdf)
 <br>
-Lyon, Aurore and Ariga, Rina and **Minchol&eacute;, Ana** and Mahmod, Masliza and Rodriguez, Blanca}
+Lyon, Ariga, **Minchol&eacute;**, Mahmod, Ormondroyd, Laguna, de Freitas, Neubauer, Watkins and Rodriguez}
 <br>
-*In: Frontiers in physiology}, volume={9}, pages={328675}, year={2018}, publisher={Frontiers} }
-       
+*In: Frontiers in Physiology, Vol.9, pp.328675, (2018).*
+[![](doi_icon.gif)](http://doi.org/10.3389/fphys.2018.00213)       
        
 18. ***Computational techniques for ECG analysis and interpretation in light of their contribution to medical advances.***
+[![](pdf_icon.gif)](pdfs/Lyon2018b.pdf)
 <br>
-Lyon, Aurore and **Minchol&eacute;, Ana** and Martínez, Juan Pablo and Laguna, Pablo and Rodriguez, Blanca}
+Lyon, **Minchol&eacute;**, Martínez, Laguna and Rodriguez.
 <br>
-*In: Journal of The Royal Society Interface}, volume={15}, number={138}, pages={20170821}, year={2018}, publisher={The Royal Society} }
-       
-       
+*In: Journal of The Royal Society Interface, Vol. 15, No. 138, pp. 20170821, (2018).
+[![](doi_icon.gif)](https://doi.org/10.1098/rsif.2017.0821) 
+          
 18. ***Electrocardiogram Phenotypes in Hypertrophic Cardiomyopathy Caused by Distinct Mechanisms: Apico-Basal Repolarization Gradients vs. Purkinje-Myocardial Coupling Abnormalities.***
  ![](open_access.gif)
 [![](pdf_icon.gif)](pdfs/Lyon18_EP_Europace.pdf)
@@ -132,50 +135,54 @@ Lyon, Bueno-Orovio, Zacur, Ariga, Grau, Neubauer, Watkins, Rodriguez, and **Minc
        
        
 17. ***Variational inference over non-differentiable cardiac simulators using Bayesian optimization.***
+ ![](open_access.gif)
+[![](pdf_icon.gif)](pdfs/McCarthy17.pdf)
 <br>
-McCarthy, Adam and Rodriguez, Blanca and **Minchol&eacute;, Ana**}
+McCarthy, Rodriguez and **Minchol&eacute;**.
 <br>
-*In: arXiv preprint arXiv:1712.03353}, year={2017} }
-       
+*In: arXiv preprint arXiv:1712.03353, (2017).*
+[![](doi_icon.gif)](https://doi.org/10.48550/arXiv.1712.03353)       
        
 17. ***Electrophysiological properties of computational human ventricular cell action potential models under acute ischemic conditions.***
+ ![](open_access.gif)
+[![](pdf_icon.gif)](pdfs/Dutta17.pdf)
 <br>
-Dutta, Sara and **Minchol&eacute;, Ana** and Quinn, T Alexander and Rodriguez, Blanca}
+Dutta and **Minchol&eacute;**, Quinn and Rodriguez.
 <br>
-*In: Progress in biophysics and molecular biology}, volume={129}, pages={40--52}, year={2017}, publisher={Pergamon} }
-       
-       
-17. ***Bay&eacute;s de Luna A, Martínez JP, Laguna P, Pueyo E. Sudden cardiac death and pump failure death prediction in chronic heart failure by combining ECG and clinical markers in an integrated risk model.***
-<br>
-Ramírez, J and Orini, M and Minchol&eacute;, A and Monasterio, V and Cygankiewicz, I}
-<br>
-*In: PLoS One}, volume={12}, number={10.1371}, year={2017} }
-       
-       
-17. ***T-wave morphology restitution predicts sudden cardiac death in patients with chronic heart failure.***
-<br>
-Ramírez, Julia and Orini, Michele and **Minchol&eacute;, Ana** and Monasterio, Violeta and Cygankiewicz, Iwona and Bayes de Luna, Antonio and Martínez, Juan Pablo and Pueyo, Esther and Laguna, Pablo}
-<br>
-*In: Journal of the American Heart Association}, volume={6}, number={5}, pages={e005310}, year={2017} }
-       
+*In: Progress in Biophysics and Molecular Biology, Vol. 129, pp. 40-52, (2017).*
+[![](doi_icon.gif)](https://doi.org/10.1016/j.pbiomolbio.2017.02.007)        
        
 17. ***Sudden cardiac death and pump failure death prediction in chronic heart failure by combining ECG and clinical markers in an integrated risk model.***
+ ![](open_access.gif)
+[![](pdf_icon.gif)](pdfs/Ramirez17.pdf)
 <br>
-Ramírez, Julia and Orini, Michele and **Minchol&eacute;, Ana** and Monasterio, Violeta and Cygankiewicz, Iwona and Bay&eacute;s de Luna, Antonio and Martínez, Juan Pablo and Laguna, Pablo and Pueyo, Esther}
+Ramírez, Orini, **Minchol&eacute;**, Monasterio, Cygankiewicz, Bayés de Luna, Martínez, Laguna and Pueyo.
 <br>
-*In: PloS one}, volume={12}, number={10}, pages={e0186152}, year={2017}, publisher={Public Library of Science San Francisco, CA USA} }
+*In: PLoS One, Vol. 12, No. 10.1371, (2017).*
+[![](doi_icon.gif)](https://doi.org/10.1371/journal.pone.0186152)          
        
+17. ***T-wave morphology restitution predicts sudden cardiac death in patients with chronic heart failure.***
+ ![](open_access.gif)
+[![](pdf_icon.gif)](pdfs/Ramirez17b.pdf)
+<br>
+Ramírez, Orini, **Minchol&eacute;**, Monasterio, Cygankiewicz, Bayés de Luna, Martínez, Pueyo and Laguna.
+<br>
+*In: Journal of the American Heart Association, Vol. 6, No. 5, pp. e005310, (2017).* 
+[![](doi_icon.gif)](https://doi.org/10.1161/JAHA.116.005310)         
+           
        
 16. ***Human ventricular activation sequence and the simulation of the electrocardiographic QRS complex and its variability in healthy and intraventricular block conditions.***
+ ![](open_access.gif)
+[![](pdf_icon.gif)](pdfs/Cardone16.pdf)
 <br>
-Cardone-Noott, Louie and Bueno-Orovio, Alfonso and Minchole, Ana and Zemzemi, Nejib and Rodriguez, Blanca}
+Cardone-Noott, Bueno-Orovio, **Minchol&eacute;**, Zemzemi and Rodriguez.
 <br>
-*In: EP Europace, 18(4) (2016), pp.iv4--iv15.*
-       
+*In: EP Europace, Vol. 18, No. 4, pp.iv4--iv15, (2016).*
+[![](doi_icon.gif)](https://doi.org/10.1093/europace/euw346)          
        
 16. ***Risk stratification in hypertrophic cardiomyopathy based on QRS and T wave morphological biomarkers identifies three phenotypic subgroups.***
 <br>
-Lyon, A and Ariga, R and Minchole, A and Laguna, P and De Freitas, N and Neubauer, S and Watkins, H and Rodriguez, B}
+Lyon, Ariga, R and Minchole, A and Laguna, P and De Freitas, N and Neubauer, S and Watkins, H and Rodriguez, B}
 <br>
 *In: European Heart Journal}, volume={37}, number={S1}, year={2016}, publisher={Oxford University Press} }
        
