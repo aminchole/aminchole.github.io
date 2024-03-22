@@ -33,6 +33,20 @@
 
 { : reversed="reversed"}
 
+
+
+      
+00. ***Titulo.***
+ ![](open_access.gif)
+[![](pdf_icon.gif)](pdfs/nombre.pdf)
+<br>
+**Minchol&eacute;**, autores, and Ultimo.
+<br>
+*In: Info paper (2019).*
+[![](bibtex_icon.gif)](bibs/nombre.bib)
+[![](doi_icon.gif)](http://doi.org/10.3389/fphys.2019.01103)
+
+
 23. ***Análisis frecuencial del complejo QRS del electrocardiograma para la caracterización de la estimulación con marcapasos.***
 <br>
 Bell&eacute;s, Clara Sales and Melero, Jorge and Ramos, Javier and **Minchol&eacute;, Ana** and Pueyo, Esther and others.
@@ -315,6 +329,14 @@ Minchol&eacute;, A and Bueno-Orovio, A and Laguna, P and Pueyo, E and Rodriguez,
 
 {: reversed="reversed"}
 
+00. ***Titulo.***
+[![](pdf_icon.gif)](pdfs/nombre.pdf)
+<br>
+Lyon, Ariga, **Minchol&eacute;**, Zacur, Laguna, Grau, Neubauer, Watkins, and Rodriguez.
+<br>
+In: Conference of the European Medical and Biological Engineering Conference (EMBEC). Tampere, Finland, June 2017.
+
+
 
 23. ***ECG-Based Characterization of Acute Ischemia During Percutaneous Coronary Intervention.***
 <br>
@@ -385,14 +407,6 @@ Lyon, Aurore and **Minchol&eacute;, Ana** and Passini, Elisa and Rodriguez, Blan
 **Minchol&eacute;**, Zacur, Lyon, Ariga, Carapella, Villard, Martinez-Navarro, Bueno-Orovio, Grau, and Rodriguez.
 <br>
 In: Computing in Cardiology (CinC). Rennes, France, Sept. 2017.
-
-
-17. ***Risk Stratification in Hypertrophic Cardiomyopathy Using ECG-based Clustering and Personalized Computer Simulations.***
-[![](pdf_icon.gif)](pdfs/EMBEC_2017.pdf)
-<br>
-Lyon, Ariga, **Minchol&eacute;**, Zacur, Laguna, Grau, Neubauer, Watkins, and Rodriguez.
-<br>
-In: Conference of the European Medical and Biological Engineering Conference (EMBEC). Tampere, Finland, June 2017.
 
 
 17. ***Investigating the Role of Anatomical Variability on ECG Using MRI-based Computer Models of Human Heart and Torso.***
