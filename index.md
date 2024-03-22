@@ -110,7 +110,7 @@ Tomek, Bueno-Orovio, Passini, Zhou, Minchole, Britton, Bartolucci, Severi, Shrie
  ![](open_access.gif)
 [![](pdf_icon.gif)](pdfs/Lyon2018a.pdf)
 <br>
-Lyon, Ariga, **Minchol&eacute;**, Mahmod, Ormondroyd, Laguna, de Freitas, Neubauer, Watkins and Rodriguez}
+Lyon, Ariga, **Minchol&eacute;**, Mahmod, Ormondroyd, Laguna, de Freitas, Neubauer, Watkins and Rodriguez.
 <br>
 *In: Frontiers in Physiology, Vol.9, pp.328675, (2018).*
 [![](doi_icon.gif)](http://doi.org/10.3389/fphys.2018.00213)       
@@ -120,7 +120,7 @@ Lyon, Ariga, **Minchol&eacute;**, Mahmod, Ormondroyd, Laguna, de Freitas, Neubau
 <br>
 Lyon, **Minchol&eacute;**, Martínez, Laguna and Rodriguez.
 <br>
-*In: Journal of The Royal Society Interface, Vol. 15, No. 138, pp. 20170821, (2018).
+*In: Journal of The Royal Society Interface, Vol. 15, No. 138, pp. 20170821, (2018).*
 [![](doi_icon.gif)](https://doi.org/10.1098/rsif.2017.0821) 
           
 18. ***Electrocardiogram Phenotypes in Hypertrophic Cardiomyopathy Caused by Distinct Mechanisms: Apico-Basal Repolarization Gradients vs. Purkinje-Myocardial Coupling Abnormalities.***
