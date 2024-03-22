@@ -180,9 +180,7 @@ Cardone-Noott, Bueno-Orovio, **Minchol&eacute;**, Zemzemi and Rodriguez.
 *In: EP Europace, Vol. 18, No. 4, pp.iv4--iv15, (2016).*
 [![](doi_icon.gif)](https://doi.org/10.1093/europace/euw346)          
        
-
-       
-       
+    
 16. ***Mechanisms of pro-arrhythmic abnormalities in ventricular repolarisation and anti-arrhythmic therapies in human hypertrophic cardiomyopathy.***
  ![](open_access.gif)
 [![](pdf_icon.gif)](pdfs/Passini16.pdf)
@@ -196,7 +194,7 @@ Passini, **Minchol&eacute;**, Coppini, Cerbai, Rodriguez, Severi, and Bueno-Orov
  ![](open_access.gif)
 [![](pdf_icon.gif)](pdfs/Dutta16_Progress_in_Biophysics_and_Molecular_Biology.pdf)
 <br>
-Dutta, **Minchol&eacute;**, Zacur, Quinn, Taggart, and Rodriguez.
+Dutta, **Minchol&eacute; (joint first author)**, Zacur, Quinn, Taggart, and Rodriguez.
 <br>
 *In: Progress in Biophysics and Molecular Biology 120.1 (2016). Recent Developments in Biophysics Molecular Biology of Heart Rhythm, pp. 236&ndash;248.*
 [![](bibtex_icon.gif)](bibs/Dutta16_Progress_in_Biophysics_and_Molecular_Biology.bib)
@@ -205,10 +203,10 @@ Dutta, **Minchol&eacute;**, Zacur, Quinn, Taggart, and Rodriguez.
        
 15. ***Class III drugs in human regionally-ischemic ventricles: Anti-or proarrhythmic action?.***
 <br>
-Dutta, Sara and **Minchol&eacute;** and Taggart, Peter and Quinn, T Alexander and Rodriguez, Blanca}
+Dutta, **Minchol&eacute;**, Taggart, Quinn, and Rodriguez.
 <br>
-*In: Journal of Pharmacological and Toxicological Methods, 75 (2015), pp.165.*
-       
+*In: Journal of Pharmacological and Toxicological Methods, Vol. 75 , pp. 165, (2015).*
+[![](doi_icon.gif)](http://doi.org/10.1016/j.vascn.2015.08.026)       
        
 15. ***Human-based approaches to pharmacology and cardiology: an interdisciplinary and intersectorial workshop.***
  ![](open_access.gif)
@@ -220,40 +218,32 @@ Rodriguez, Carusi, Abi-Gerges, Ariga, Britton, Bub, Bueno-Orovio, Burton, Carape
 [![](doi_icon.gif)](http://doi.org/10.1093/europace/euv320)       
        
 15. ***ECG-based estimation of dispersion of APD restitution as a tool to stratify sotalol-induced arrhythmic risk.***
+ ![](open_access.gif)
+[![](pdf_icon.gif)](pdfs/Minchole15.pdf)
 <br>
-Minchol&eacute;, A and Bueno-Orovio, A and Laguna, P and Pueyo, E and Rodriguez, B}
+Minchol&eacute;, Bueno-Orovio, Laguna, Pueyo and Rodriguez.
 <br>
-*In: Journal of electrocardiology}, volume={48}, number={5}, pages={867--873}, year={2015}, publisher={Churchill Livingstone} }
-       
-       
-15. ***Human-based approaches to pharmacology and cardiology: an interdisciplinary and intersectorial workshop.***
-<br>
-Rodriguez, Blanca and Carusi, Annamaria and Abi-Gerges, Najah and Ariga, Rina and Britton, Oliver and Bub, Gil and Bueno-Orovio, Alfonso and Burton, Rebecca AB and Carapella, Valentina and Cardone-Noott, Louie and others}
-<br>
-*In: Ep Europace}, volume={18}, number={9}, pages={1287--1298}, year={2015}, publisher={European Society of Cardiology} }
+*In: Journal of electrocardiology, Vol.48, No.5, pp. 867-873, (2015).*
+[![](doi_icon.gif)](http://doi.org/10.1016/j.jelectrocard.2015.06.006)           
        
        
 15. ***Automatic SVM classification of sudden cardiac death and pump failure death from autonomic and repolarization ECG markers.***
+[![](pdf_icon.gif)](pdfs/Ramirez15.pdf)
 <br>
-Ramírez, Julia and Monasterio, Violeta and **Minchol&eacute;, Ana** and Llamedo, Mariano and Lenis, Gustavo and Cygankiewicz, Iwona and de Luna, Antonio Bay&eacute;s and Malik, Marek and Martínez, Juan Pablo and Laguna, Pablo and others}
+Ramírez, Monasterio, **Minchol&eacute;**, Llamedo, Lenis, Cygankiewicz, Bayés de Luna, Malik, Martínez, Laguna,
+ and Pueyo.
 <br>
-*In: Journal of Electrocardiology}, volume={48}, number={4}, pages={551--557}, year={2015}, publisher={Churchill Livingstone} }
-       
+*In: Journal of Electrocardiology, Vol. 48, No. 4, pp. 551-557, (2015).*
+[![](doi_icon.gif)](https://doi.org/10.1016/j.jelectrocard.2015.04.002)                
        
 14. ***Detection of body position changes from the ECG using a Laplacian noise model.***
+[![](pdf_icon.gif)](pdfs/Minchole14.pdf)
 <br>
-**Minchol&eacute;, Ana** and S{\"o}rnmo, Leif and Laguna, Pablo}
+**Minchol&eacute;**, Sörnmo and Laguna.
 <br>
-*In: Biomedical Signal Processing and Control}, volume={14}, pages={189--196}, year={2014}, publisher={Elsevier} }
-       
-       
-14. ***Sudden Cardiac Death Survival Prediction from Restitution Dispersion Analysis.***
-<br>
-Ramírez, Julia and **Minchol&eacute;, Ana** and Bolea, Juan and Laguna, Pablo and Pueyo, Esther and others}
-<br>
-*In: Jornada de Jóvenes Investigadores del I3A}, volume={1}, pages={22--23}, year={2014}, publisher={Universidad de Zaragoza} }
-       
-       
+*In: Biomedical Signal Processing and Control, Vol. 14, pp. 189-196, (2014).
+[![](doi_icon.gif)](https://doi.org/10.1016/j.bspc.2014.08.002)            
+  
 14. ***Modeling and Quantification of Repolarization Feature Dependency on Heart Rate.***
 [![](pdf_icon.gif)](pdfs/Minchole14_Methods_of_Information_in_Medicine.pdf)
 <br>
@@ -266,22 +256,14 @@ Ramírez, Julia and **Minchol&eacute;, Ana** and Bolea, Juan and Laguna, Pablo a
        
        
 13. ***Deriving respiration from photoplethysmographic pulse width.***
+[![](pdf_icon.gif)](pdfs/Lazaro13.pdf)
 <br>
-Lázaro, Jesús and Gil, Eduardo and Bailón, Raquel and **Minchol&eacute;, Ana** and Laguna, Pablo}
+Lázaro, Gil, Bailón, **Minchol&eacute;** and Laguna.
 <br>
-*In: Medical \& biological engineering \& computing}, volume={51}, pages={233--242}, year={2013}, publisher={Springer-Verlag} }
+*In: Medical \& Biological Engineering \& Computing}, Vol. 51, pp. 233-242, (2013).*
+[![](doi_icon.gif)](http://doi.org/10.1007/s11517-012-0954-0)       
        
-       
-13. ***Dynamic response of temporal and spatial ventricular repolarization dispersion indices during abrupt heart rate changes.***
-<br>
-Teperino, Marcos J and Cruces, Pablo D and **Minchol&eacute;, Ana** and Laguna, Pablo and Bonomini, Mar{\i}a P and Arini, Pedro D}
-<br>
-*In: energy}, volume={100}, pages={5}, year={2013} }
-       
-       
-12. ***A novel ECG-based biomarker quantifying APD restitution dispersion improves risk stratification following sotalol administration.***
-<br>
-Minchol&eacute;, A and Bueno-Orovio, A and Laguna, P and Pueyo, E and Rodriguez, B}, year={2012} }
+
        
        
 11. ***Quantification of Restitution Dispersion From the Dynamic Changes of the T-Wave Peak to End, Measured at the Surface ECG.***
@@ -296,16 +278,18 @@ Minchol&eacute;, A and Bueno-Orovio, A and Laguna, P and Pueyo, E and Rodriguez,
        
 10. ***Dispersion of APD restitution quantified from the surface ECG.***
 <br>
-**Minchol&eacute;, Ana** and Pueyo, Esther and Laguna, Pablo}
+**Minchol&eacute;.**, Pueyo and Laguna.
 <br>
-*In: Journal of Electrocardiology}, volume={43}, number={6}, pages={643}, year={2010} }
+*In: Journal of Electrocardiology, Vol.43, No.6, pp. 643, (2010).
        
        
 10. ***Discrimination between ischemic and artifactual ST segment events in Holter recordings.***
+[![](pdf_icon.gif)](pdfs/Minchole10.pdf)
 <br>
-**Minchol&eacute;, Ana** and Jager, Franc and Laguna, Pablo}
+**Minchol&eacute;**, Jager and Laguna.
 <br>
-*In: Biomedical Signal Processing and Control}, volume={5}, number={1}, pages={21--31}, year={2010}, publisher={Elsevier} }
+*In: Biomedical Signal Processing and Control, Vol. 5, No.1, pp. 21-31, (2010).*
+[![](doi_icon.gif)](https://doi.org/10.1016/j.bspc.2009.09.001)
 
 
 
@@ -485,6 +469,11 @@ Valenza, Gaetano and Orini, Michele and Citi, Luca and **Minchol&eacute;, Ana** 
 <br>
 Cruces, Pablo Daniel and Teperino, Marcos Javier and **Minchol&eacute;, Ana** and Laguna, Pablo and Bonomini, María Paula and Arini, Pedro DavidVI Latin American Congress on Biomedical Engineering CLAIB 2014, Paraná, Argentina 29, 30 \& 31 October 2014}, pages={488--491}, year={2015}, organization={Springer International Publishing} }
 
+14. ***Sudden Cardiac Death Survival Prediction from Restitution Dispersion Analysis.***
+<br>
+Ramírez, Julia and **Minchol&eacute;, Ana** and Bolea, Juan and Laguna, Pablo and Pueyo, Esther and others}
+<br>
+*In: Jornada de Jóvenes Investigadores del I3A}, volume={1}, pages={22--23}, year={2014}, publisher={Universidad de Zaragoza} }
 
 13. ***Recent human ventricular cell action potential models under varied ischaemic conditions.***
 <br>
@@ -495,6 +484,16 @@ Dutta, Sara and **Minchol&eacute;, Ana** and Quinn, T Alexander and Rodriguez, B
 <br>
 Ramírez, Julia and **Minchol&eacute;, Ana** and Bolea, Juan and Laguna, Pablo and Pueyo, EstherComputing in Cardiology 2013}, pages={1--4}, year={2013}, organization={IEEE} }
 
+13. ***Dynamic response of temporal and spatial ventricular repolarization dispersion indices during abrupt heart rate changes.***
+<br>
+Teperino, Marcos J and Cruces, Pablo D and **Minchol&eacute;, Ana** and Laguna, Pablo and Bonomini, Mar{\i}a P and Arini, Pedro D}
+<br>
+*In: energy}, volume={100}, pages={5}, year={2013} }
+       
+       
+12. ***A novel ECG-based biomarker quantifying APD restitution dispersion improves risk stratification following sotalol administration.***
+<br>
+Minchol&eacute;, A and Bueno-Orovio, A and Laguna, P and Pueyo, E and Rodriguez, B}, year={2012} }
 
 12. ***Efficient Characterization of Repolarization Adaptation to Heart Rate Changes.***
 [![](pdf_icon.gif)](pdfs/BSI_2012.pdf)
