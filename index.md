@@ -180,19 +180,17 @@ Cardone-Noott, Bueno-Orovio, **Minchol&eacute;**, Zemzemi and Rodriguez.
 *In: EP Europace, Vol. 18, No. 4, pp.iv4--iv15, (2016).*
 [![](doi_icon.gif)](https://doi.org/10.1093/europace/euw346)          
        
-16. ***Risk stratification in hypertrophic cardiomyopathy based on QRS and T wave morphological biomarkers identifies three phenotypic subgroups.***
-<br>
-Lyon, Ariga, R and Minchole, A and Laguna, P and De Freitas, N and Neubauer, S and Watkins, H and Rodriguez, B}
-<br>
-*In: European Heart Journal}, volume={37}, number={S1}, year={2016}, publisher={Oxford University Press} }
+
        
        
 16. ***Mechanisms of pro-arrhythmic abnormalities in ventricular repolarisation and anti-arrhythmic therapies in human hypertrophic cardiomyopathy.***
+ ![](open_access.gif)
+[![](pdf_icon.gif)](pdfs/Passini16.pdf)
 <br>
-Passini, Elisa and **Minchol&eacute;, Ana** and Coppini, Raffaele and Cerbai, Elisabetta and Rodriguez, Blanca and Severi, Stefano and Bueno-Orovio, Alfonso}
+Passini, **Minchol&eacute;**, Coppini, Cerbai, Rodriguez, Severi, and Bueno-Orovio.
 <br>
-*In: Journal of molecular and cellular cardiology}, volume={96}, pages={72--81}, year={2016}, publisher={Academic Press} }
-       
+*In: Journal of Molecular and Cellular Cardiology, Vol. 96, pp. 72-81, (2016).*
+[![](doi_icon.gif)](http://doi.org/10.1016/j.yjmcc.2015.09.003)       
        
 16. ***Early Afterdepolarizations Promote Transmural Reentry in Ischemic Human Ventricles with Reduced Repolarization Reserve.***
  ![](open_access.gif)
@@ -445,7 +443,12 @@ Zacur, **Minchol&eacute;**, Villard, Carapella, Ariga, Rodriguez, and Grau.
 In: MICCAI Workshop on Bio-Imaging and Visualization for Patient-Customized Simulations (BIVPCS). Quebec, Canada, Sept. 2017.
 [![](doi_icon.gif)](http://doi.org/10.1007/978-3-319-67552-7_8)
    
-   
+16. ***Risk stratification in hypertrophic cardiomyopathy based on QRS and T wave morphological biomarkers identifies three phenotypic subgroups.***
+<br>
+Lyon, Ariga, R and Minchole, A and Laguna, P and De Freitas, N and Neubauer, S and Watkins, H and Rodriguez, B}
+<br>
+*In: European Heart Journal}, volume={37}, number={S1}, year={2016}, publisher={Oxford University Press} }
+
 15. ***Extraction of morphological QRS-based biomarkers in hypertrophic cardiomyopathy for risk stratification using L1 regularized logistic regression.***
 <br>
 Lyon, Aurore and **Minchol&eacute;, Ana** and Ariga, Rina and Laguna, Pablo and Neubauer, Stefan and Watkins, Hugh and de Freitas, Nando and Rodríguez, Blanca2015 Computing in Cardiology Conference (CinC)}, pages={9--12}, year={2015}, organization={IEEE} }
