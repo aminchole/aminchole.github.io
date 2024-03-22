@@ -55,7 +55,7 @@
 Bueno-Palomeque, Mountris, Ortigosa, Bailón, Bijnens, Crispi, Pueyo, **Minchol&eacute;** and Laguna.
 <br>
 *In: IEEE Journal of Biomedical and Health Informatics, Vol. 27, No 10, (2023).*
-      
+[![](doi_icon.gif)](https://doi.org/10.1109/JBHI.2023.3297550)         
        
 21. ***Inference of ventricular activation properties from non-invasive electrocardiography.***
  ![](open_access.gif)
@@ -63,7 +63,7 @@ Bueno-Palomeque, Mountris, Ortigosa, Bailón, Bijnens, Crispi, Pueyo, **Minchol&
 Camps, Lawson, Drovandi, **Minchol&eacute;**, Wang, Grau, Burrage and Rodriguez.
 <br>
 *In: Medical Image Analysis, 73, pp.102143 (2021).*
-       
+[![](doi_icon.gif)](https://doi.org/10.1016/j.media.2021.102143)      
        
 19. ***Artificial intelligence for the electrocardiogram.***
 [![](pdf_icon.gif)](pdfs/Minchole19a.pdf)
@@ -71,7 +71,7 @@ Camps, Lawson, Drovandi, **Minchol&eacute;**, Wang, Grau, Burrage and Rodriguez.
 **Minchol&eacute;** and Rodriguez.
 <br>
 *In: Nature Medicine, 25, pp.22-23, (2019).*
-       
+[![](doi_icon.gif)](https://doi.org/10.1038/s41591-018-0306-1)         
        
 19. ***Machine learning in the electrocardiogram.***
 [![](pdf_icon.gif)](pdfs/Minchole19b.pdf)
@@ -79,7 +79,7 @@ Camps, Lawson, Drovandi, **Minchol&eacute;**, Wang, Grau, Burrage and Rodriguez.
 **Minchol&eacute;**, Camps, Lyon and Rodríguez.
 <br>
 *In: Journal of Electrocardiology, 57, pp. S61--S64, (2019).*
-       
+[![](doi_icon.gif)](https://doi.org/10.1016/j.jelectrocard.2019.08.008)         
        
 19. ***High arrhythmic risk in antero-septal acute myocardial ischemia is explained by increased transmural reentry occurrence.***
  ![](open_access.gif)
@@ -88,7 +88,7 @@ Camps, Lawson, Drovandi, **Minchol&eacute;**, Wang, Grau, Burrage and Rodriguez.
 Martinez-Navarro, **Minchol&eacute;**, Bueno-Orovio and Rodriguez.
 <br>
 *In: Scientific reports, Vol. 9, No. 1, pp. 16803, (2019).*
-       
+[![](doi_icon.gif)](https://doi.org/10.1038/s41598-019-53221-2)        
        
 19. ***Improving the clinical understanding of hypertrophic cardiomyopathy by combining patient data, machine learning and computer simulations: a case study.***
  ![](open_access.gif)
@@ -97,16 +97,17 @@ Martinez-Navarro, **Minchol&eacute;**, Bueno-Orovio and Rodriguez.
 Lyon, **Minchol&eacute;**,  Bueno-Orovio and Rodriguez.
 <br>
 *In: Morphologie, Vol. 103, No. 343, pp. 169-179, (2019).*
-       
+[![](doi_icon.gif)](http://doi.org/10.1016/j.morpho.2019.09.001)       
        
 19. ***Development, calibration, and validation of a novel human ventricular myocyte model in health, disease, and drug block.***
  ![](open_access.gif)
 [![](pdf_icon.gif)](pdfs/Tomek19.pdf)<br>
 Tomek, Bueno-Orovio, Passini, Zhou, Minchole, Britton, Bartolucci, Severi, Shrier, Virag, Laszlo and Rodriguez.
 <br>
-*In: Elife, Vol. 8, pp. e48890, (2019).*
-       
-       
+*In: Elife, Vol. 8, pp. e48890, (2019).*     
+[![](bibtex_icon.gif)](bibs/Minchole19_Frontiers_in_Physiology.bib)
+[![](doi_icon.gif)](http://doi.org/10.7554/eLife.48890)
+
 19. ***MRI-Based Computational Torso/Biventricular Multiscale Models to Investigate the Impact of Anatomical Variability on the ECG QRS Complex.***
  ![](open_access.gif)
 [![](pdf_icon.gif)](pdfs/Minchole19_Frontiers_in_Physiology.pdf)
