@@ -205,17 +205,19 @@ Dutta, **Minchol&eacute;**, Zacur, Quinn, Taggart, and Rodriguez.
        
 15. ***Class III drugs in human regionally-ischemic ventricles: Anti-or proarrhythmic action?.***
 <br>
-Dutta, Sara and **Minchol&eacute;, Ana** and Taggart, Peter and Quinn, T Alexander and Rodriguez, Blanca}
+Dutta, Sara and **Minchol&eacute;** and Taggart, Peter and Quinn, T Alexander and Rodriguez, Blanca}
 <br>
 *In: Journal of Pharmacological and Toxicological Methods, 75 (2015), pp.165.*
        
        
-15. ***Human-based approaches to pharmacology and cardiology: an interdisciplinary and intersectorial.***
+15. ***Human-based approaches to pharmacology and cardiology: an interdisciplinary and intersectorial workshop.***
+ ![](open_access.gif)
+[![](pdf_icon.gif)](pdfs/Rodriguez15.pdf)
 <br>
-Burton, R and Rodriguez, B and Britton, O and Cardone-Noott, L and Lyon, A and Minchole, A and Muszkiewicz, A and Passini, E and Zhou, X and Carusi, A and others}
+Rodriguez, Carusi, Abi-Gerges, Ariga, Britton, Bub, Bueno-Orovio, Burton, Carapella, Cardone-Noott, Daniels, Davies, Dutta, Ghetti, Grau, Harmer, Kopljar, Lambiase, Lu, Lyon, **Minchol&eacute;**, Muszkiewicz, Oster, Paci, Passini, Severi, Taggart, Tinker, Valentin, Varro, Wallman, Zhou
 <br>
-*In: Europace (2015).*
-       
+*In: Europace, Vol. 18, No. 0, pp. 1287-98, (2015).*
+[![](doi_icon.gif)](http://doi.org/10.1093/europace/euv320)       
        
 15. ***ECG-based estimation of dispersion of APD restitution as a tool to stratify sotalol-induced arrhythmic risk.***
 <br>
