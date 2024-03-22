@@ -339,7 +339,7 @@ Sales, Melero, Julián, Ramos, **Minchol&eacute;** and Pueyo.
 <br>
 Rodríguez-Carbó, **Minchol&eacute;** and Pueyo.
 <br>
-*In: Computing in Cardiology (CinC). Vol.50, pp.1-4; Atlanta, USA, 2023. 
+*In: Computing in Cardiology (CinC). Vol.50, pp.1-4; Atlanta, USA, 2023.* 
    
    
 23. ***ECG Morphology-Based Markers for Risk Stratification in Hypertrophic Cardiomyopathy.***
@@ -347,7 +347,7 @@ Rodríguez-Carbó, **Minchol&eacute;** and Pueyo.
 <br>
 Noguero-Soler, Ramos-Maqueda, Revilla-Martí, Pueyo and **Minchol&eacute;**.
 <br>
-*In: Computing in Cardiology (CinC). Vol.50, pp.1-4; Atlanta, USA, 2023. 
+*In: Computing in Cardiology (CinC). Vol.50, pp.1-4; Atlanta, USA, 2023.* 
    
    
 23. ***ECG-Based Unsupervised Clustering in Coronary Artery Disease Associates with Ventricular Arrhythmia.***
@@ -355,7 +355,7 @@ Noguero-Soler, Ramos-Maqueda, Revilla-Martí, Pueyo and **Minchol&eacute;**.
 <br>
 Madrid, Munroe, van Duijvenboden, Ramírez and **Minchol&eacute;**
 <br>
-*In: Computing in Cardiology (CinC). Vol.50, pp.1-4; Atlanta, USA, 2023. 
+*In: Computing in Cardiology (CinC). Vol.50, pp.1-4; Atlanta, USA, 2023.* 
    
    
 23. ***Left Bundle Branch Area Pacing Generates More Physiological Ventricular Activation Sequences than Right Ventricular Pacing.***
@@ -363,33 +363,45 @@ Madrid, Munroe, van Duijvenboden, Ramírez and **Minchol&eacute;**
 <br>
 Sales, **Minchol&eacute;**, Sorinas,Julián, Cabrera-Ramos, Melero, Montilla-Padilla, Pueyo, and Ramos.
 <br>
-*In: Computing in Cardiology (CinC). Vol.50, pp.1-4; Atlanta, USA, 2023. 
+*In: Computing in Cardiology (CinC). Vol.50, pp.1-4; Atlanta, USA, 2023.* 
 
+23. ***Análisis frecuencial del complejo QRS del electrocardiograma para la caracterización de la estimulación con marcapasos.***
+[![](pdf_icon.gif)](pdfs/Sales23b.pdf)
+<br>
+Sales-Bellés, Melero, Ramos, **Minchol&eacute;** and Pueyo.
+<br>
+*In: Jornada de Jóvenes Investigadores del I3A, 11 (2023).*
    
 23. ***QRS Width and T-Peak to T-End Interval Are Prolonged in Preadolescents with Severe Intrauterine Growth Restriction at Birth when Compared to Controls.***
 [![](pdf_icon.gif)](pdfs/Bueno23.pdf)
 <br>
 Bueno--Palomeque, Mountris, Ortigosa, Bailón, Bijnens, Crispi, Pueyo, **Minchol&eacute;** and Laguna.
 <br>
-*In: Computing in Cardiology (CinC). Vol.50, pp.1-4; Atlanta, USA, 2023. 
+*In: Computing in Cardiology (CinC). Vol.50, pp.1-4; Atlanta, USA, 2023.* 
    
    
 22. ***Right ventricular vs left bundle branch pacing-induced changes in ECG depolarization and repolarization.***
+[![](pdf_icon.gif)](pdfs/Sales22c.pdf)
 <br>
 Sales, Palacios, Melero, Julián, Ramos, Martínez, **Minchol&eacute;** and Pueyo.
 <br>
-*In: Computing in Cardiology (CinC). Vol.49, pp.1-4;  Tampere, Finland, 2022.
+*In: Computing in Cardiology (CinC). Vol.49, pp.1-4;  Tampere, Finland, 2022.*
    
    
 21. ***Inference of ventricular activation properties from twelve-lead electrocardiogram.***
+[![](pdf_icon.gif)](pdfs/Camps21b.pdf)
 <br>
-Camps, Julia and Lawson, Brodie and Drovandi, Christopher and Minchole, Ana and Wang, Zhinuo Jenny and Grau, Vicente and Burrage, Kevin and Rodriguez, Blanca2021 Computing in Cardiology (CinC)}, volume={48}, pages={1--4}, year={2021}, organization={IEEE} }
+Camps, Lawson, Drovandi, Minchole, Wang, Grau, Burrage and Rodriguez.
+<br>
+*In: Computing in Cardiology (CinC). Vol.48, pp.1-4;  Brno, Czech Republic, 2021.*
    
    
 20. ***Changes in QRS and T-wave loops subsequent to an increase in left ventricle globularity as in intrauterine growth restriction: a simulation study.***
+[![](pdf_icon.gif)](pdfs/Bueno20.pdf)
 <br>
-Bueno-Palomeque, Freddy L and Mountris, Konstantinos A and **Minchol&eacute;, Ana** and Ortigosa, Nuria and Bailón, Raquel and Pueyo, Esther and Laguna, Pablo.
-2020 Computing in Cardiology}, pages={1--4}, year={2020}, organization={IEEE} }
+Bueno-Palomeque, Mountris, **Minchol&eacute;, Ortigosa, Bailón, Pueyo and Laguna.
+<br>
+*In: Computing in Cardiology (CinC). Vol.47, pp.1-4;  Rimini, Italy, 2020.*
    
    
 18. ***Clinical MRI-based Multiscale Computational Models of Heart and Torso to Investigate the Role of Anatomy on ECG.***
