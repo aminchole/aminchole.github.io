@@ -47,12 +47,6 @@
 [![](doi_icon.gif)](http://doi.org/10.3389/fphys.2019.01103)
 
 
-23. ***Análisis frecuencial del complejo QRS del electrocardiograma para la caracterización de la estimulación con marcapasos.***
-<br>
-Bell&eacute;s, Clara Sales and Melero, Jorge and Ramos, Javier and **Minchol&eacute;, Ana** and Pueyo, Esther and others.
-<br>
-*In: Jornada de Jóvenes Investigadores del I3A, 11 (2023).*
-
 
 23. ***QRS-T angles as markers for heart sphericity in subjects with intrauterine growth restriction: a simulation study.***
 <br>
@@ -61,11 +55,7 @@ Bueno-Palomeque, Freddy L and Mountris, Konstantinos A and Ortigosa, Nuria and B
 *In: IEEE Journal of Biomedical and Health Informatics (2023).*
 
 
-22. ***Comparación de los efectos de la estimulación cardíaca convencional y la estimulación de rama izquierda sobre la despolarización y repolarización ventricular en el ECG.***
-<br>
-Bell&eacute;s, Clara Sales and Melero, Jorge and Julián, In&eacute;s and Ramos, Javier and **Minchol&eacute;, Ana** and Pueyo, Esther and others.
-<br>
-*In: Jornada de Jóvenes Investigadores del I3A, 10 (2022).*
+
        
        
 22. ***Variación del ángulo entre QRS y onda T del ECG en función del índice de esfericidad ventricular en sujetos con crecimiento intrauterino retardado: un estudio computacional.***
@@ -336,11 +326,18 @@ Lyon, Ariga, **Minchol&eacute;**, Zacur, Laguna, Grau, Neubauer, Watkins, and Ro
 <br>
 In: Conference of the European Medical and Biological Engineering Conference (EMBEC). Tampere, Finland, June 2017.
 
+22. ***Comparación de los efectos de la estimulación cardíaca convencional y la estimulación de rama izquierda sobre la despolarización y repolarización ventricular en el ECG.***
+<br>
+Sales, Melero, Julián, Ramos, **Minchol&eacute;** and Pueyo.
+<br>
+*In: Jornada de Jóvenes Investigadores del I3A, 10 (2022).*
 
 
 23. ***ECG-Based Characterization of Acute Ischemia During Percutaneous Coronary Intervention.***
 <br>
-Rodríguez-Carbó, Jimena and **Minchol&eacute;, Ana** and Pueyo, Esther2023 Computing in Cardiology (CinC)}, volume={50}, pages={1--4}, year={2023}, organization={IEEE} }
+Rodríguez-Carbó, **Minchol&eacute;** and Pueyo.
+<br>
+*In: Computing in Cardiology (CinC). Vol.50, pp.1-4; Atlanta, USA, 2023. 
    
    
 23. ***ECG Morphology-Based Markers for Risk Stratification in Hypertrophic Cardiomyopathy.***
@@ -527,6 +524,14 @@ Minchol&eacute;, A and Martínez, JP and Arini, P and Risk, M and Laguna, P2006 
 05. ***Evaluation of a root mean squared based ischemia detector on the long-term ST database with body position change cancellation.***
 <br>
 Minchol&eacute;, A and Skarp, B and Jager, F and Laguna, PComputers in Cardiology, 2005}, pages={853--856}, year={2005}, organization={IEEE} }
+
+
+23. ***Análisis frecuencial del complejo QRS del electrocardiograma para la caracterización de la estimulación con marcapasos.***
+<br>
+Bell&eacute;s, Clara Sales and Melero, Jorge and Ramos, Javier and **Minchol&eacute;, Ana** and Pueyo, Esther and others.
+<br>
+*In: Jornada de Jóvenes Investigadores del I3A, 11 (2023).*
+
 
 
 --------------------------------
